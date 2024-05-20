@@ -15,8 +15,6 @@ _This text is italicized_
 通常のテキスト
 > 引用テキスト
 
-# テーブル
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+# 二重引用
+> 引用
+>> 二重引用
