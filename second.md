@@ -12,3 +12,9 @@ _This text is italicized_
 
 # 絵文字
 :smile: :+1: :octocat:
+
+# テーブル
+| 見出し | 見出し |
+| --- | --- |
+| 内容 | 内容 |
+| 内容 | 内容 |
