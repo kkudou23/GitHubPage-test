@@ -16,7 +16,7 @@ _This text is italicized_
 > 引用テキスト
 
 # テーブル
-| 見出し | 見出し |  
-| --- | --- |  
-| 内容 | 内容 |  
-| 内容 | 内容 |  
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
